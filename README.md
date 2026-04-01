@@ -1,5 +1,8 @@
 ## Setup & Run
 
+### THIS USES TRANSFER LEARNING FOR BETTER PREDICTION ResNet50
+
+
 NOTE: The given Dataset for this project was unavailable on Kaggle - "https://www.kaggle.com/datasets/shubham2703/coco-dataset-for-multi-label-image-classification/data"
 
 Hence, The Pascal VOC Dataset is used instead for the completion of the project.
